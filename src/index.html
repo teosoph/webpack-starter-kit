@@ -1,0 +1,75 @@
+<!-- 1 -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Webpack Starter Kit</title>
+
+    <!-- Don't forget to delete this style tag. -->
+    <style>
+      body {
+        min-height: 100vh;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .intro {
+        text-align: center;
+      }
+
+      .intro h1 {
+        margin-top: 0;
+        font-weight: 500;
+        font-size: 40px;
+      }
+
+      .intro img {
+        display: block;
+        max-width: 100%;
+        height: auto;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="wraper">
+      <button class="burger">
+        <span class="burger__line"></span>
+        <span class="burger__line"></span>
+        <span class="burger__line"></span>
+      </button>
+
+      <aside class="side-bar">
+        <nav class="side-bar__nav">
+          <a href="" class="side-bar__link">About</a>
+          <a href="" class="side-bar__link">Gallery</a>
+          <a href="" class="side-bar__link">News</a>
+          <a href="" class="side-bar__link">Contacts</a>
+        </nav>
+
+        <button class="x-mark"></button>
+      </aside>
+
+      <article class="intro">
+        <h1>Webpack starter kit</h1>
+        <div class="image-container">
+          <!-- <img src="./images/svg/failure (1).svg" alt="" /> -->
+
+          <svg class="inline-svg-icon browser">
+            <use
+              class="svg-icon"
+              xlink:href="./images/svg/sprite.svg#cloud-computing"
+            ></use>
+          </svg>
+        </div>
+
+        <!-- HTML image reference example. -->
+        <img src="./images/intro.png" alt="" width="640" />
+      </article>
+    </div>
+  </body>
+</html>

@@ -9,14 +9,14 @@ html {
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-    Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif,
-    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
   /*
    * CSS image reference example.
    */
-  background-image: url('./images/bg-pattern.png');
+  /* background-image: url('./images/bg-pattern.png'); */
 }
 
 .svg-icon {
@@ -69,7 +69,7 @@ body {
   /* background-color: #fff; */
 }
 .x-mark::before {
-  content: '';
+  content: "";
   display: inline-block;
   background: #fff;
   width: 20px;
@@ -80,7 +80,7 @@ body {
   position: absolute;
   top: 15px;
   left: 5px;
-  content: '';
+  content: "";
   display: inline-block;
   background: #fff;
   width: 20px;

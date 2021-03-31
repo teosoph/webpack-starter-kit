@@ -1,9 +1,180 @@
 [
     {
         "id": "asklfasln",
-        "title": "asklfasln",
+        "title": "Adds styling to the working page hw7",
+        "location": "asklfasln",
+        "city": "asklfasln",
+        "rating": "1",
+        "descr": "Дополнительно: мебель, бытовая техника, кондиционер, гардеробная, панорамные окна",
+    "imgUrl": "https://14.img.avito.st/image/1/SzVarbay59xsBCXZQKQbFrwO59r6DOU",
+    "owner": {
+        "name": "Madame Uppercut",
+    "phone": "3085556615684",
+"email": "sldkjn@gmail.com"}
+    },{
         "id": "asklfasln",
+        "title": "Adds styling to the working page hw7",
+        "location": "asklfasln",
+        "city": "sdvgafdsbvafdsbadfbazfdbadfb",
+        "rating": "2",
+        "descr": "* Гардеробная, встроенные шкафы.* Оптоволоконный интернет с реальными 300Мбит по воздуху.",
+    "imgUrl": "https://92.img.avito.st/image/1/OdDNE7aylTn7ulc8sxtp8yuwlT9tspc",
+    "owner": {
+        "name": "Madame Uppercut",
+    "phone": "3085556615684",
+"email": "sldkjn@gmail.com"}
+    },{
         "id": "asklfasln",
-        "id": "asklfasln"
+        "title": "Adds styling to the working page hw7",
+        "location": "asklfasln",
+        "city": "asklfasln",
+        "rating": "3",
+        "descr": "ановлена система фильтрации обратного осмоса с подачей воды на основной кран мойки.",
+    "imgUrl": "https://80.img.avito.st/image/1/BegBGLayqQE3sWsEBxBVy-e7qQehuas",
+    "owner": {
+        "name": "Madame Uppercut",
+    "phone": "3085556615684",
+"email": "sldkjn@gmail.com"}
+    },{
+        "id": "asklfasln",
+        "title": "Adds styling to the working page hw7",
+        "location": "asklfasln",
+        "city": "asklfasln",
+        "rating": "4",
+        "descr": "asklfasln",
+    "imgUrl": "https://49.img.avito.st/image/1/ZDBrIrayyNldiwrcLys0E42ByN_Lg8o",
+    "owner": {
+        "name": "Madame Uppercut",
+    "phone": "3085556615684",
+"email": "sldkjn@gmail.com"}
+    },{
+        "id": "asklfasln",
+        "title": "Adds styling to the working page hw7",
+        "location": "asklfasln",
+        "city": "asklfasln",
+        "rating": "1",
+        "descr": "asklfasln",
+    "imgUrl": "https://s1.1zoom.ru/big0/52/Love_Sunrises_and_sunsets_Fingers_Hands_Heart_Sun_532758_1280x897.jpg",
+    "owner": {
+        "name": "Madame Uppercut",
+    "phone": "3085556615684",
+"email": "sldkjn@gmail.com"}
+    },{
+        "id": "asklfasln",
+        "title": "Adds styling to the working page hw7",
+        "location": "asklfasln",
+        "city": "asklfasln",
+        "rating": "5",
+        "descr": "asklfasln",
+    "imgUrl": "https://s1.1zoom.ru/big0/720/Netherlands_Houses_Evening_The_Hague_Canal_603201_1280x959.jpg",
+    "owner": {
+        "name": "Madame Uppercut",
+    "phone": "3085556615684",
+"email": "sldkjn@gmail.com"}
+    },{
+        "id": "asklfasln",
+        "title": "Adds styling to the working page hw7",
+        "location": "asklfasln",
+        "city": "asklfasln",
+        "rating": "1",
+        "descr": "asklfasln",
+    "imgUrl": "https://s1.1zoom.ru/prev2/604/Seat_Tarraco_FR_eHybrid_Worldwide_2020_--_603169_300x200.jpg",
+    "owner": {
+        "name": "Madame Uppercut",
+    "phone": "3085556615684",
+"email": "sldkjn@gmail.com"}
+    },{
+        "id": "asklfasln",
+        "title": "Adds styling to the working page hw7",
+        "location": "asklfasln",
+        "city": "asklfasln",
+        "rating": "6",
+        "descr": "asklfasln",
+    "imgUrl": "https://s1.1zoom.ru/prev2/604/Turkey_Mosque_Sculptures_Horses_Cannon_Selemiye_603185_300x200.jpg",
+    "owner": {
+        "name": "Madame Uppercut",
+    "phone": "3085556615684",
+"email": "sldkjn@gmail.com"}
+    },{
+        "id": "asklfasln",
+        "title": "Adds styling to the working page hw7",
+        "location": "asklfasln",
+        "city": "asklfasln",
+        "rating": "7",
+        "descr": "asklfasln",
+    "imgUrl": "https://s1.1zoom.ru/prev2/604/Norway_Mountains_Cruise_liner_From_above_Fjord_603195_300x200.jpg",
+    "owner": {
+        "name": "Madame Uppercut",
+    "phone": "3085556615684",
+"email": "sldkjn@gmail.com"}
+    },
+
+    {
+  "squadName": "Super hero squad",
+  "homeTown": "Metro City",
+  "formed": 2016,
+  "secretBase": "Super tower",
+  "active": true,
+  "members": [
+    {
+      "name": "Molecule Man",
+      "age": 29,
+      "secretIdentity": "Dan Jukes",
+      "powers": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name": "Madame Uppercut",
+      "age": 39,
+      "secretIdentity": "Jane Wilson",
+      "powers": [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name": "Eternal Flame",
+      "age": 1000000,
+      "secretIdentity": "Unknown",
+      "powers": [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
     }
+  ]
+},
+
+{"widget": {
+    "debug": "on",
+    "window": {
+        "title": "Sample Konfabulator Widget",
+        "name": "main_window",
+        "width": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+        "name": "sun1",
+        "hOffset": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+        "style": "bold",
+        "name": "text1",
+        "hOffset": 250,
+        "vOffset": 100,
+        "alignment": "center",
+        "onMouseUp": "sun1.opacity = (sun1.opacity / 100) * 90;"
+    }
+}}    
 ]

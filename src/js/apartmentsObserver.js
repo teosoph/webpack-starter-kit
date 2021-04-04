@@ -26,7 +26,7 @@ const apartmentsObserver = (apartmentList) => {
     });
   };
   const observerOption = {
-    rootMargin: "-100px",
+    rootMargin: "-200px",
   };
   gsap.set(apartmentList, { y: 30, opacity: 0 });
   const observer = new IntersectionObserver(observerHandler, observerOption);

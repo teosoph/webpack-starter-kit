@@ -10,6 +10,7 @@ const animateApartment = (element) => {
     opacity: 1,
     duration: 0.8,
     stager: 0.15,
+    // rotateZ: 30,
   });
 };
 
